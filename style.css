@@ -1,0 +1,14 @@
+body {
+    background-color: brown(131, 5, 5);
+    font-family: "assinato"  system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+ }
+
+ button {
+     background-color: blanchedalmond(255, 231, 123);
+     font-family: "assasinato" , system-ui;
+     
