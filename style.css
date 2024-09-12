@@ -11,4 +11,21 @@ body {
  button {
      background-color: blanchedalmond(255, 231, 123);
      font-family: "assasinato" , system-ui;
-     
+ }
+
+ .passo {
+      display :nome;
+ }
+
+ .passo.ativo {
+      display:block;
+}
+
+main {
+      text-align: center;
+      max-width: 90%;
+}
+
+ing {
+    max-width: 90%;
+}
